@@ -14,3 +14,5 @@ This app was built for educational purposes.
 ## Setup
 
 Install dependencies with `npm install`.
+
+Create a .env file using .envEXAMPLE as a template. You can get your alchemy key [here](https://www.alchemy.com/).

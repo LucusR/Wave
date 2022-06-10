@@ -1,4 +1,4 @@
-# Wave (Work in progress)
+# Wave Portal (Work in progress)
 
 ## Description
 
@@ -17,7 +17,7 @@ This app was built for educational purposes.
 
 ## Setup
 
-Install dependencies with `npm install`.
+1) Install dependencies with `npm install`.
 
 Create a .env file using .envEXAMPLE as a template. You can get your alchemy key by logging in and creating an application [here](https://www.alchemy.com/).
 

@@ -11,7 +11,9 @@ This app was built for educational purposes.
 ## Dependencies
 
 - Hardhat
+- React
 - Ethers
+- Vite
 
 ## Setup
 

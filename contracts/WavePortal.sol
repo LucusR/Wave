@@ -17,7 +17,7 @@ contract WavePortal {
     // Variable delcaration to store an array of structs
     Wave[] waves;
 
-    constructor() {
+    constructor() payable {
         console.log("I am a very smart contract :D");
     }
 

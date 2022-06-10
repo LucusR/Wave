@@ -2,7 +2,9 @@
 
 ## Description
 
-Wave is a Web3 application that allows messages to be sent and received through smart contracts on the etherium network.
+Wave is a Web3 application that allows messages to be sent and received through smart contracts on the etherium network. Currently this application is using the Rinkeby Testnet to avoid paying real ether gas fees.
+
+Currently, this repo contains no front-end code as I am using Replit to store the front-end code and to deploy it. I will add my front-end code at a later time.
 
 This app was built for educational purposes.
 

@@ -14,6 +14,7 @@ This app was built for educational purposes.
 - React
 - Ethers
 - Vite
+- React
 
 ## Setup
 

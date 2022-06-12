@@ -1,0 +1,80 @@
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #09011F;
+}
+
+.dataContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+.bio {
+    text-align: center;
+    color: white;
+    margin-top: 16px;
+}
+
+.waveButton {
+    cursor: pointer;
+    margin-top: 16px;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.walletButton {
+    cursor: pointer;
+    margin-top: 16px;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+.walletConnect {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 1em;
+    color: white;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  margin-top: 0.5em;
+  height: 2em;
+}
+
+.waveCount {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.wave {
+  background-color: #bbb1d2;
+}
+
+.waves {
+  display: flex;
+  flex-direction: column-reverse;
+}

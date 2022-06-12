@@ -1,4 +1,4 @@
-# Wave Portal
+# Wave
 
 ## Description
 
@@ -23,6 +23,6 @@ Create a .env file using .envEXAMPLE as a template. You can get your alchemy key
 
 2) Deploy smart contract to Rinkeyby testnet with `npx hardhat run scripts/deploy.js --network rinkeby`.
 
-3) You can view your newly created smart contract on [etherscan](https://etherscan.io/) by typing in your contract address (you can get your contract address from your terminal after you have deployed it).
+3) You can view your newly created smart contract on [etherscan](https://rinkeby.etherscan.io/) by typing in your contract address (you can get your contract address from your terminal after you have deployed it).
 
 

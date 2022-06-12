@@ -1,12 +1,10 @@
-# Wave Portal (Work in progress)
+# Wave Portal
 
 ## Description
 
-Wave is a Web3 application that allows messages to be sent and received through smart contracts on the etherium network. Currently this application is using the Rinkeby Testnet to avoid paying real ether gas fees.
+Wave is a Web3 application that allows messages to be sent and received through smart contracts on the etherium network. Currently this application is using the Rinkeby Testnet to deploy the smart contract to avoid paying real gas fees.
 
-Currently, this repo contains no front-end code as I am using Replit to store the front-end code and to deploy it. I will add my front-end code at a later time.
-
-This app was built for educational purposes.
+![Alt text](https://github.com/LucusR/Wave/blob/main/smart-contract/assets/1.png)
 
 ## Dependencies
 
@@ -15,6 +13,7 @@ This app was built for educational purposes.
 - Ethers
 - Vite
 - React
+- Metamask (connected to Rinkeby)
 
 ## Setup
 

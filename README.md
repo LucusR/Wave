@@ -9,7 +9,6 @@ Wave is a Web3 application that allows messages to be sent and received through 
 ## Dependencies
 
 - Hardhat
-- React
 - Ethers
 - Vite
 - React
